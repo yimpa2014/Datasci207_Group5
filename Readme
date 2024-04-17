@@ -1,13 +1,10 @@
-Final Project
+DATASCI207, Section 05, Group 5
+Uthman Alibalogun, Alex Hubbard, Patrick Yim, Vincent Qu
 
-The goal of the project is to perform an end to end dataset analysis (data cleaning, model training, hyperparameter selection, model evaluation).
-You can select a dataset for your project by browsing:
+Traffic Flow Forecasting
 
-The UCI Repository: https://archive.ics.uci.edu/ml/datasets.php
-Kaggle: https://www.kaggle.com
-Ensure that the dataset you sourced does not contain personal identifiable information and is not a synthetic dataset. Make sure you understand how the dataset was collected (e.g. is it scraped from the web? Is it based on human or automatic annotation?)
-For the final project you will form a group of 3 or 4 people. Your group can only include members from the section in which you are enrolled. You will pick your own dataset (each group should have a different dataset). You will present your final project in class during the final session (for ~ 15 min).
-Some past example project:
+Predicting traffic volume for 15 minutes into the future based on sensor data at 36 locations. 
 
-Gender Pay Gap Prediction
-Blood Cells Classification
+Data File: traffic_dataset.mat
+Final Notebook: 207_Final_Project_Sec05_Group5.ipynb
+Presentation Slides: 207 Final Presentation.pdf
